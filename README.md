@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/Pankodak/badges/large)
+![Codewars](https://github.r2v.ch/codewars?user=Pankodak)
